@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sgysh3nka
 - 👀 I’m interested in making random stuff.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python, html, css.
 - 💞️ I’m looking to collaborate on programming.
 - 📫 Discord username: sgysh3nka
 - 😄 Pronouns: He/Him
